@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToolBox</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="full_name">Nome completo</string>
+    <string name="error_invalid_email">Endereço de Email inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="link_to_register">Registrar</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="erro_login">Falha no login, tente novamente.</string>
+    <string name="btn_link_to_login"> Você está registrado! Voltar para tela de Login. </string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Remetente">Remetente</string>
+    <string name="Seutelefone"> Seu telefone</string>
+    <string name="EnviarEmail">Enviar Email:</string>
+    <string name="DigiteEmail">Digite seu email</string>
+    <string name="btnEnviarEmail">Enviar Email</string>
+    <string name="btnVerAgenda">Ver Agenda</string>
+    <string name="textoEmail">Texto</string>
+</resources>
